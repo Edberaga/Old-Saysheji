@@ -1,0 +1,10 @@
+.navText{ padding: 20px 10px;}
+
+.navText:hover {
+    color: #00f6ff;
+    border-bottom: #00f6ff solid 2px;
+}
+
+@media screen and (max-width: 768px) {
+    .navText { padding: 15px 30px; text-align: center;}
+}
