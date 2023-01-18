@@ -1,0 +1,20 @@
+.home-header{
+    background-image: url('../../assets/img/header-bg.jpg');
+    background-size: contain;
+    background-position: right;
+    background-color: black;
+    background-repeat: no-repeat;
+}
+
+@media screen and (max-width: 768px) {
+    .home-header{
+        background-position: center;
+        background-size: contain;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .home-header{
+        background-size: auto;
+    }
+}
