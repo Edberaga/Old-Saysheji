@@ -42,51 +42,6 @@ export const headerNavLinks = [
   },
 ];
 
-export const homeContent = [
-    {
-        headerContent: "Unlock the potential of Web3 by transforming your business with our cutting-edge Web3 development services and solutions built using blockchain, NFT, AI, and virtual reality technologies. As a trusted Web3 development company, we help enterprises realize the true potential of the decentralized web to deliver high transparency, efficiency, and automation by catering to the specific needs of your business. Talk to our experts today to develop a Web3-based solution that can make you stay ahead of your competition.",
-        formPlaceholder: "Tell us more about your Project. What are the requirements and what it's about. Is there similar product available in the market?",
-        
-        serviceSectionTitle: "Our Web3 Development Services",
-        serviceSectionInfo: "We help enterprises harness the power of decentralization with our end-to-end Web3 services to increase efficiency, unlock more business values, improve customer experience, and develop new business models.",
-        
-        supportSectionTitle: "How Do We Support Your Web3 Development?",
-        supportSectionInfo: "As businesses and consumers shift towards Web3 technology and decentralized applications, isn't it time you started to think about how your business could benefit from blockchain, crypto, dApps, and the metaverse?",
-        
-        contactPanelTitle1: "Hire the best Web3 solutions experts?",
-        contactPanelInfo1: "Want to build your own Web3 application? No worries! Schedule a free consultation with our experts to get started today.",
-        contactPanelTitle2: "Let’s get started with Web3 solution development?",
-        contactPanelInfo2: "Schedule a free consultation with one of our Web3 solution experts to check how we can add value to your business.",
-        contactPanelTitle3: "Want to discuss a Web3 project you have in your mind?",
-        contactPanelInfo3: "Schedule a free no-obligation consultation with our experts for your Web3 development needs and see how we can help you improve your overall business productivity.",
-
-        benefitSectionTitle: "Benefits of Web 3.0",
-        benefitSectionInfo: "Start upgrading your web interactions with Web3-powered, secure decentralized solutions. With the aid of the installed AI platform, you may use the capabilities and advantages of Web3 to adopt new tech development concepts to ease and change human-web interactions. Take a look at some of the noteworthy benefits of Web3 that you should know.",
-        
-        heroSectionTitle: "Widen your reach into the future with Web 3.0",
-        heroSectionInfo1: "As the internet continues to evolve, its influence on us has become so advent that it has started to shape everything we see, what we read, the products we buy, the entertainment videos we watch, and even how we interact. The internet has become more decentralized due to large technology corporations' dominance over internet use and their control over users' data.",
-        heroSectionInfo2: "Web3 is the right answer to this dilemma. It is a new iteration of the internet that uses blockchain to decentralize governance, limiting major organizations' power over personal data and making it more trustworthy and secure.",
-
-        helpSectionTitle: "How can we help your business?",
-        helpSectionInfo: "We are the one-stop destination for all of your Web3 development requirements:",
-        
-        partnerSectionTitle: "We are trusted by the world's most prestigious brands",
-        partnerSectionInfo: "We are thrilled and proud to have gained the trust of many changemakers and top B2B and B2C companies, government organizations, tech startups, and many others who appreciate the splendor of our digital products delivered across the Web3 space.",
-
-        knowledgeTitle1: "Blog",
-        knowledgeInfo1: "Keep updated about whats new in tech",
-        knowledgeTitle2: "White Papers",
-        knowledgeInfo2: "Useful guides tech and industry reports",
-        knowledgeTitle3: "Resources",
-        knowledgeInfo3: "More articles and presentations",
-        knowledgeTitle4: "Videos",
-        knowledgeInfo4: "Tutorials, Walkthroughs, Demos and more",
-
-        faqSectionTitle: "FAQ",
-        faqSectionInfo: "Everyone is curious to know more about the What's, Why's, and How's about Web3 development process. So we collected the most popular questions, and our experts have answered them to quench the thirst of those Web 3.0 enthusiasts. We hope you find your answers here and if not, worry not! Drop us your queries, and our experts will get back to you within the next 24hrs."
-    }
-];
-
 export const service = [
     {
         id: 'service-1',
