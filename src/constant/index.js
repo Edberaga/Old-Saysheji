@@ -15,6 +15,25 @@ import insurance from '../assets/icon/Insurance-Web3-Usecase.png'
 import messaging from '../assets/icon/Messaging-Platforms.png'
 import sosMedweb3 from '../assets/icon/social-media-web3-project.png'
 
+import aeon from '../assets/icon/logo/aeon.png'
+import aorbgroup from '../assets/icon/logo/aorbgroup.png'
+import chapayom from '../assets/icon/logo/chapayom.png'
+import chatime from '../assets/icon/logo/chatime.png'
+import chowtaifook from '../assets/icon/logo/chowtaifook.png'
+import dearest from '../assets/icon/logo/dearest.png'
+import dlaksa from '../assets/icon/logo/dlaksa.png'
+
+import euequities from '../assets/icon/logo/euequities.png'
+import goodskin from '../assets/icon/logo/goodskin.png'
+import iloveyoo from '../assets/icon/logo/iloveyoo.png'
+import kokobin from '../assets/icon/logo/kokobin.png'
+import luxedeskin from '../assets/icon/logo/luxedeskin.png'
+import savvix from '../assets/icon/logo/savvix.png'
+import zwy from '../assets/icon/logo/zwy.png'
+
+import {GiTeacher, GiStairsGoal}  from 'react-icons/gi'
+import {FaLaptopCode } from 'react-icons/fa'
+
 export const headerNavLinks = [
   {
     id: "service",
@@ -181,16 +200,19 @@ export const benefits = [
     {
         id: "benefit-1",
         title: "Gives ownership of data and contents back to the end-users.",
-        info: "According to recent surveys, 25% of enterprises will integrate legacy apps and centralized services with decentralized web3 applications by 2024."
+        number: "25%",
+        info: "According to recent surveys, 25% of enterprises will integrate legacy apps and centralized services with decentralized web3 applications by 2024.",
     },
     {
         id: "benefit-2",
         title: "Data will be more decentralized and secure.",
+        number: "$19 Bn",
         info: "Blockchain expenditure is expected to reach $19 billion by 2024 as more organizations use data validation, access, and identity protection techniques.",
     },
     {
         id: "benefit-3",
         title: "More personalized internet surfing experience.",
+        number: "81%",
         info: "According to a recent survey by a leading institute, 81 percent of consumers who have heard of Web 3.0 believe it would boost their happiness and wellness.",
     },
 ];
@@ -198,20 +220,97 @@ export const benefits = [
 export const help = [
     {
         id: "help-1",
+        /*icon: <FaLaptopCode/>,*/
         title: "Educate",
         info: "Our initial focus is on educating our stakeholders about the present cultural shift to help them comprehend the numerous options accessible in Web3 and its significant use cases. We support them at each stage of their business transformation journey."
     },
     {
         id: "help-2",
+        /*icon: <GiStairsGoal/>,*/
         title: "Set the mission and vision",
         info: "We use our technical and business capabilities to identify and prioritize the best approach to Web3 decentralization and support businesses in accomplishing their business purpose and vision. We endeavor to assist you in seizing the right opportunity at the right moment for your company."
     },
     {
         id: "help-3",
+        /*icon: <FaLaptopCode/>,*/
         title: "Develop and deploy",
         info: "Our skilled developers will next create and execute established strategies to help you build Web3 solutions that can conveniently pave the way for seamless collaboration with blockchain, making transactions across Web3 SDKs and libraries much simpler. We handle everything from building a decentralized P2P network to developing dApps to match your business with the current internet phase centered on transparency, decentralization, and widespread user acceptance."
     },
 
+];
+
+export const partner = [
+  {
+    id: 1,
+    title: "AEON",
+    img: aeon
+  },
+  {
+    id: 2,
+    title: "AORB GROUP",
+    img: aorbgroup
+  },
+  {
+    id: 3,
+    title: "Chapayom",
+    img: chapayom
+  },
+  {
+    id: 4,
+    title: "Chatime",
+    img: chatime
+  },
+  {
+    id: 5,
+    title: "Chow Tai Fook",
+    img: chowtaifook
+  },
+  {
+    id: 6,
+    title: "Dearest",
+    img: dearest
+  },
+
+  {
+    id: 7,
+    title: "Dlaksa",
+    img: dlaksa
+  },
+  {
+    id: 8,
+    title: "Euequities",
+    img: euequities
+  },
+  {
+    id: 9,
+    title: "Goodskin",
+    img: goodskin
+  },
+  {
+    id: 10,
+    title: "I Love Yoo",
+    img: iloveyoo
+  },
+  {
+    id: 11,
+    title: "Kokobin",
+    img: kokobin
+  },
+  {
+    id: 12,
+    title: "Lux De Skin",
+    img: luxedeskin
+  },
+  {
+    id: 13,
+    title: "Savvix",
+    img: savvix
+  },
+  {
+    id: 14,
+    title: "Zu Wey Feng Shui Academy",
+    img: zwy
+  },
 ];
 
 export const caseStudy = [
