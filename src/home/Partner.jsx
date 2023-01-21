@@ -7,7 +7,7 @@ import Discuss from './Discuss'
 const PartnerSlick = ({title, img}) => {
     return(
         <div className=' mx-6'>
-            <img src={img} alt={title} className='w-[180px]' />
+            <img src={img} alt={title} className='sm:w-[180px] ss:w-[150px] w-[120px]' />
         </div>
     )
 }
