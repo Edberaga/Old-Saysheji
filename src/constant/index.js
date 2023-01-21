@@ -356,29 +356,57 @@ export const caseStudy = [
     },
 ];
 
+export const knowledge = [
+  {
+    id: '1',
+    title: "Blog",
+    info: "Keep updated about whats new in tech.",
+  },
+  {
+    id: '2',
+    title: "White Papers",
+    info: "Useful guides, tech and industry reports.",
+  },
+  {
+    id: '3',
+    title: "Resources",
+    info: "More articles and presentations.",
+  },
+  {
+    id: '4',
+    title: "Videos",
+    info: "Tutorials, Walkthroughs, Demos and more.",
+  },
+];
+
 export const faq = [
     {
         id: "faq-1",
+        number: "0",
         title: "What is Web3?",
         detail: "Web 3.0 is the third generation of the internet that allows websites and apps to process information in a smart human-like way through technologies like machine learning (ML), big data, decentralized ledger technology (DLT), etc. Web 3.0 was originally called the Semantic Web by World Wide Web inventor Tim Berners-Lee and aimed to be a more autonomous, intelligent, and open internet."
     },
     {
         id: "faq-2",
+        number: "1",
         title: "How do common users and professionals see the Web3?",
         detail: "Ordinary users who are not professional and well-informed about Web 3.0 see the technology as a utopia Internet where everything is user-centric. The internet will be decentralized; hence the community will manage it. There won't be any corporations collecting and processing users' data without permission to earn money. The user will only voice the thought, and the internet will do it for them."
     },
     {
         id: "faq-3",
+        number: "2",
         title: "Why choose Accubits as your Web3 development company?",
         detail: "Our Web3 solution experts work with you to create future-ready decentralized solutions that use the potential of distributed ledger technology with real-world use cases. <br/> We are always flexible in implementing our project development methodologies to accommodate your needs."
     },
     {
         id: "faq-4",
+        number: "3",
         title: "What are the costs involved in developing a Web3 solution?",
         detail: "The solution configuration determines the price of launching a Web3 solution and the functionality required. Contact us today to receive a cost estimate for your needs."
     },
     {
         id: "faq-5",
+        number: "4",
         title: "How long will it take to launch a Web3 solution?",
         detail: "The solution's functions and features determine the time required to launch the Web 3.0 solution. The more intricate the functionality, the longer it takes to design, test, and launch it."
     },
