@@ -1,8 +1,22 @@
-.navText{ padding: 20px 10px;}
+.navText a{ 
+    padding: 20px 10px;
+    color: white;
+    border-bottom: transparent solid 2px;
+    transition: 0.25s;
+}
 
-.navText:hover {
+.navText a:hover {
     color: #00f6ff;
     border-bottom: #00f6ff solid 2px;
+}
+
+.study-list li {
+    list-style-type: disc;
+    list-style-position: inside;
+}
+
+.case-line{
+    background-color: #00f6ff;
 }
 
 @media screen and (max-width: 768px) {
