@@ -1,0 +1,11 @@
+.panel1{ background-image: url('../../assets/img/panel-1.jpg');}
+.panel2{ 
+    background-image: url('../../assets/img/panel-2.jpg');
+    background-position: center;
+}
+.panel3{ background-image: url('../../assets/img/panel-3.jpg');}
+
+.panel1, .panel2, .panel3{
+    padding: 5% 0;
+    background-size: cover;
+}
