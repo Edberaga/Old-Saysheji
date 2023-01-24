@@ -6,7 +6,7 @@ import Discuss from '../Discuss'
 
 const ThirdContactWidget = () => {
   return (
-    <section className='panel3 w-[100%] '>
+    <section className='panel3 w-[100%] py-5'>
     <div className={`flex-1 flex-wrap ${styles.flexStart} flex-col xl:px-0 sm:px-16 px-6`}>
         <div className="flex flex-col text-white justify-center items-start max-w-[650px] h-[250px]">
           <h1 className='font-poppins font-semibold ss:text-[32px] [26px] pb-4 '> 
