@@ -7,7 +7,7 @@ import Discuss from './Discuss'
 const PartnerSlick = ({title, img}) => {
     return(
         <div className=' mx-6'>
-            <img src={img} alt={title} className='sm:w-[180px] ss:w-[150px] w-[120px]' />
+            <img src={img} alt={title} className='sm:w-[180px] ss:w-[140px] w-[100px]' />
         </div>
     )
 }
@@ -18,7 +18,7 @@ const Partner = () => {
     <section className='text-center my-10'>
         <h1 className={styles.heading2}>{Content.partnerSectionTitle}</h1>
         <div className="w-full md:mt-10 mt-6">
-          <p className={`${styles.paragraph} sm:mr-[5rem] mr-5 text-base`}>{Content.partnerSectionInfo}</p>
+          <p className={`${styles.paragraph} sm:mr-[5rem] mr-0 text-base`}>{Content.partnerSectionInfo}</p>
         </div>
     </section>
 
