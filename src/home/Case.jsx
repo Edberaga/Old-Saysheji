@@ -13,7 +13,7 @@ const options = {
   center: true,
   items: 1,
   margin: 0,
-  autoplay: true,
+  autoplay: false,
   dots: true,
   autoplayTimeout: 5000,
   smartSpeed: 450,
@@ -40,13 +40,13 @@ const CaseItem = ({title, paragraph, focusField, detail }) => {
     <>
     <div class='bg-black px-6 py-10 text-white'>
       <div className='w-[22px] h-[4px] my-2 case-line'></div>
-      <h1 className='font-poppins  font-semibold xs:text-[28px] text-[20px] xs:leading-[36.8px] leading-[29.8px] w-full'>
+      <h1 className='font-poppins font-semibold xs:text-[28px] text-[20px] xs:leading-[36.8px] leading-[29.8px] w-full'>
         {title}
       </h1>
       <p className="py-3 text-dimWhite">{paragraph}</p>
-      <ul className='flex w-full study-list mb-3 text-sm'>
+      <ul className='flex sm:flex-row flex-col w-full study-list mb-3 text-sm'>
         <li>{focusField.field1}</li>
-        <li className=" ml-6 ">{focusField.field2}</li>
+        <li className="sm:ml-6 ml-0 ">{focusField.field2}</li>
       </ul>
       <p className='py-2'>{detail}</p>
     </div>
