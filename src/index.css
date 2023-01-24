@@ -50,7 +50,6 @@
 .bg-blue-border{
   background-color: transparent;
   border: 1px solid #5ce1e6;
-  max-width: 55%;
   align-self: center;
   transition: 0.25s;
 }
@@ -148,3 +147,4 @@
   background: rgba(255, 255, 255, 0.6);
   filter: blur(750px);
 }
+
