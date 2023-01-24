@@ -18,7 +18,7 @@ const FAQ = () => {
     <section id='faq' className='text-center my-10'>
         <h1 className={styles.heading2}>{Content.faqSectionTitle}</h1>
         <div className="w-full md:mt-10 mt-6">
-          <p className={`${styles.paragraph} sm:mr-[5rem] mr-5 text-base`}>{Content.faqSectionInfo}</p>
+          <p className={`${styles.paragraph} sm:mr-[5rem] mr-0 text-base`}>{Content.faqSectionInfo}</p>
         </div>
 
         <div className="w-full md:mt-6 mt-3">
