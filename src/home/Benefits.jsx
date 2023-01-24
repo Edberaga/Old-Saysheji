@@ -7,8 +7,8 @@ import KnowMore from './KnowMore'
 const BenefitsList = ({ title, number, info}) => {
   return (
     <div className="flex justify-start flex-col 
-    px-10 py-6 rounded-[20px] sm:max-w-[400px] max-w-[600px] md:mr-10 sm:mr-5 
-    mr-0 my-5">
+    sm:px-10 px-3 py-6 rounded-[20px] sm:max-w-[400px] max-w-[600px] md:mr-10 sm:mr-5 
+    mr-0 sm:my-5 my-2">
       <h1 className="font-poppins font-normal text-center text-[18px] leading-[32px] text-white my-8">{title}</h1>
       <h1 className="font-poppins font-semibold ss:text-[72px] text-[50px] text-center
           ss:leading-[100px] leading-[65px] text-gradient">{number}</h1>
