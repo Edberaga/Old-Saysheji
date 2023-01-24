@@ -13,9 +13,9 @@ const options = {
   center: true,
   items: 1,
   margin: 0,
-  autoplay: false,
+  autoplay: true,
   dots: true,
-  autoplayTimeout: 5000,
+  autoplayTimeout: 7500,
   smartSpeed: 450,
   nav: false
 };
