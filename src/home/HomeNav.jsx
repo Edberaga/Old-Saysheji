@@ -9,7 +9,7 @@ const HomeNav = () => {
 
   return (
     <nav className='sticky w-full flex justify-between items-center navbar z-10'>
-      <ul className="list-none md:flex hidden justify-center items-center flex-1">
+      <ul className="list-none sm:flex hidden justify-center items-center flex-1">
         {headerNavLinks.map((nav, index) => (
           <li
           key={nav.id}
@@ -23,7 +23,7 @@ const HomeNav = () => {
         ))}
       </ul>
 
-      <div className="md:hidden flex w-full flex-wrap justify-center items-center">
+      <div className="sm:hidden flex w-full flex-wrap justify-center items-center">
         <div 
           className='text-[30px] sm:mt-0 mt-5 text-white object-contain'
           onClick={() => setToggle((prev) => !prev)}>
