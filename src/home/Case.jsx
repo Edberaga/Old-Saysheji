@@ -6,6 +6,7 @@ import './homepage.css'
 import OwlCarousel from 'react-owl-carousel';
 import 'owl.carousel/dist/assets/owl.carousel.css';
 import 'owl.carousel/dist/assets/owl.theme.default.css';
+import ReactPlayer from 'react-player/youtube';
 
 //Owl Carousel Settings
 const options = {
@@ -58,11 +59,7 @@ const Case = () => {
   return (
     <section id='case' className='flex flex-wrap items-center h-full bg-lightdark'>
       <div className={`md:flex-1 flex-0 md:w-[66%] w-full ${styles.paddingY} ${styles.paddingX}`}>
-        <OwlCarousel className='owl-theme' {...options} loop margin={10} nav>
-          {caseStudy.map((item) => (
-            <CaseItem key={item.id} {...item}/>
-          ))}
-        </OwlCarousel>;
+        <ReactPlayer url='https://www.youtube.com/watch?v=5V2MRxjv7Zg&list=TLGGwoH-uQi18wYwMzAyMjAyMw&t=4s'/>
       </div>
 
       <div className={`bg-lightdarker ${styles.paddingY} ${styles.paddingX} md:flex-1 flex-0 z-[1] md:max-w-[34%] w-full`}>
