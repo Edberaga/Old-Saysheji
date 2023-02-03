@@ -125,12 +125,11 @@
 
 .feedback-card {
   background: transparent;
-  transition: 0.75s;
+  transition: 0.5s;
 }
 
 .feedback-card:hover {
   background: var(--black-gradient);
-  box-shadow: var(--card-shadow);
 }
 
 .blue__gradient {
