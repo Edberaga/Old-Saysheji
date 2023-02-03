@@ -112,12 +112,6 @@ export const service = [
         title: "Native Payment Solutions",
         content: "We create innovative digital wallets for web3 platforms that provide two major services. It maintains and manages the platform's native currency and serves as a key to access web3 dApps on other blockchains."
     },
-    {
-        id: 'service-9',
-        icon: sovereign,
-        title: 'Self-sovereign Identity',
-        content: 'We develop an SSI identity system to assist businesses in providing users with freedom and personal liberty in a safe and secure environment. In addition, our team creates wallets and credentials for users identity identification across numerous decentralized ecosystems.'
-    },
 ];
 
 export const support = [
