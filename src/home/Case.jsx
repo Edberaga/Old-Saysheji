@@ -58,8 +58,11 @@ const CaseItem = ({title, paragraph, focusField, detail }) => {
 const Case = () => {
   return (
     <section id='case' className='flex flex-wrap items-center h-full bg-lightdark'>
-      <div className={`md:flex-1 flex-0 md:w-[66%] w-full ${styles.paddingY} ${styles.paddingX}`}>
-        <ReactPlayer url='https://www.youtube.com/watch?v=5V2MRxjv7Zg&list=TLGGwoH-uQi18wYwMzAyMjAyMw&t=4s'/>
+      <div className={`md:flex-1 flex-0 justify-center md:w-[66%] w-full md:h-[600px] ss:h-[450px] h-[300px] ${styles.paddingY} ${styles.paddingX}`}>
+        <ReactPlayer width={"100%"} height="100%" url='https://www.youtube.com/watch?v=5V2MRxjv7Zg&list=TLGGwoH-uQi18wYwNjAyMjAyMw&t=4s' 
+        controls={true}
+        playIcon={true}
+        />
       </div>
 
       <div className={`bg-lightdarker ${styles.paddingY} ${styles.paddingX} md:flex-1 flex-0 z-[1] md:max-w-[34%] w-full`}>
