@@ -59,9 +59,11 @@ const Case = () => {
   return (
     <section id='case' className='flex flex-wrap items-center h-full bg-lightdark'>
       <div className={`md:flex-1 flex-0 justify-center md:w-[66%] w-full md:h-[600px] ss:h-[450px] h-[300px] ${styles.paddingY} ${styles.paddingX}`}>
-        <ReactPlayer width={"100%"} height="100%" url='https://www.youtube.com/watch?v=5V2MRxjv7Zg&list=TLGGwoH-uQi18wYwNjAyMjAyMw&t=4s' 
-        controls={true}
-        playIcon={true}
+        <ReactPlayer 
+          width={"100%"} 
+          height={"100%"} 
+          url='https://www.youtube.com/watch?v=5V2MRxjv7Zg' 
+          controls={true}
         />
       </div>
 
