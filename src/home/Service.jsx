@@ -6,10 +6,11 @@ import Content from '../constant/homeContent.json'
 
 const ServiceItem = ({ icon, title}) => {
   return (
-    <div className="flex justify-start items-center flex-row 
-      sm:px-2 sm:py-2 rounded-[20px] md:w-[25%] max-w-[50%] feedback-card w-full">
-      <img src={icon} alt={title} className='w-16 mx-3 self-center'/>
-      <h1 className="font-poppins font-normal md:text-center text-left md:text-[15px] text-[14.5px] leading-[32px] text-white my-8">{title}</h1>
+    <div className="flex justify-start items-center flex-row
+      px-2 sm:py-2 rounded-[20px] md:w-[25%] w-[50%] min-w-[200px] feedback-card">
+      <img src={icon} alt={title} className='w-16 md:mx-3 mx-1 self-center'/>
+      <h1 className="font-poppins font-normal md:text-center text-left w-full px-2
+      md:text-[15px] text-[13.5px] leading-[32px] text-white my-8">{title}</h1>
     </div>
   )
 }
@@ -25,7 +26,7 @@ const Service = () => {
         </div>
       </div>
 
-      <div className="flex flex-wrap justify-start w-full feedback-container relative z-[1]">
+      <div className="flex flex-wrap zs:justify-start justify-center feedback-container w-full relative z-[1]">
         {service.map((card) => (
           <ServiceItem key={card.id} {...card} />
         ))}
