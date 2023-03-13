@@ -5,7 +5,7 @@ import Hiring from './page/hiring/';
 
 import { Routes, Route } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Internship from './page/hiring/career/internship';
+import Internship from './page/hiring/career/Internship';
 import DiAcc from './page/hiring/career/DiAcc';
 import DiArt from './page/hiring/career/DiArt';
 import DiMed from './page/hiring/career/DiMed';
@@ -19,10 +19,9 @@ function App() {
       <Routes>
         <Route path='/' element={<Home/>} />
 
-        <Route path='/hiring'> 
-          <Route index  element={<Hiring/>} />
+        <Route path='/career'> 
+          <Route index element={<Hiring/>} />
           <Route path='internship' element={<Internship/>} />
-
           <Route path='digital-account-executive' element={<DiAcc/>} />
           <Route path='digital-project-executive' element={<DiPro/>} />
           <Route path='digital-media-planner' element={<DiMed/>} />
