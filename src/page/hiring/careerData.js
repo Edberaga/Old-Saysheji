@@ -10,7 +10,7 @@ import digitalPlanner from '../../assets/icon/career/digital-planner.png'
 import digitalWriter from '../../assets/icon/career/content-writer.png'
 import digitalDesigner from '../../assets/icon/career/digital-designer.png'
 
-export const CareerData = [
+export const careerData = [
     {
         title: "Video Editor Intern",
         img: video,
@@ -57,7 +57,7 @@ export const CareerData = [
         title: "Digital Media Planner",
         img: digitalPlanner,
         category: "Fulltime",
-        content: "Digital Media Planner needs to have excellent communication skills, a broad knowledge of media channels and trends, and analytical skills. Ultimately, this role drives innovation at the campaign level and cultivates key partnerships to deliver the best digital media opportunities to the client.",
+        content: "Digital Media Planner needs excellent communication skills, knowledge of media channels/trends, and analytical skills. This role drives innovation and cultivates key partnerships to deliver the best digital media opportunities to the client.",
     },
     {
         title: "Digital Content Writer",
