@@ -1,7 +1,6 @@
 import React from 'react'
 import { service } from '../constant'
 import { styles } from '../style'
-import Card from '../components/Card'
 import Content from '../constant/homeContent.json'
 
 const ServiceItem = ({ icon, title}) => {
