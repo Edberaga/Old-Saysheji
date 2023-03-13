@@ -1,0 +1,36 @@
+.boss-mail { color: #38B6FF;}
+.boss-mail:hover { color: rgb(0, 146, 230); transition: 0.16s ease-in; cursor: pointer;}
+
+.career-card{
+    margin: 25px 20px;
+    box-shadow: 0px 5px 15px 2px #e3e3e3;
+    transition: 0.15s ease-in;
+}
+
+.career-tag {
+    width: fit-content;
+    background-color: #38B6FF;
+    margin: 5px auto;
+    padding: 3px 18px 2px 18px;
+}
+
+.career-card:hover{
+    box-shadow: 0px 15px 15px 5px #d0d0d0;
+}
+
+.career-apply-btn a{
+    background-color: #38B6FF;
+    width: fit-content;
+    padding: 10px 25px;
+    border-radius: 25px;
+    transition: 0.22s ease;
+}
+
+.career-apply-btn a:hover {
+    color: white;
+}
+
+.header-career-bg{
+    background: url('../../assets/img/hiring-header.webp');
+    background-size: cover;
+}
