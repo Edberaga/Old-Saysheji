@@ -2,7 +2,7 @@ import React from 'react'
 
 const DiWri = () => {
   return (
-    <div>DiWri</div>
+    <div>Digital Content Writer</div>
   )
 }
 

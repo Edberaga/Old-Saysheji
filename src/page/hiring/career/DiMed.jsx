@@ -2,7 +2,7 @@ import React from 'react'
 
 const DiMed = () => {
   return (
-    <div>DiMed</div>
+    <div>Digital Media Planner</div>
   )
 }
 

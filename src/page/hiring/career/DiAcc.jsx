@@ -2,7 +2,7 @@ import React from 'react'
 
 const DiAcc = () => {
   return (
-    <div>DiAcc</div>
+    <div>Digital Account Executive</div>
   )
 }
 

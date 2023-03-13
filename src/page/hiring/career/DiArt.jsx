@@ -2,7 +2,7 @@ import React from 'react'
 
 const DiArt = () => {
   return (
-    <div>DiArt</div>
+    <div>Digital Artist</div>
   )
 }
 
