@@ -1,5 +1,6 @@
 import React from 'react';
 import { HomeNav, Hero, Service, Support, Benefits, Help, Partner, Case, FAQ, FirstContactWidget, SecondContactWidget, ThirdContactWidget, Middle } from '../../home';
+import Offer from '../../home/Offer';
 import { styles } from '../../style';
 import './Home.css'
 
@@ -28,32 +29,38 @@ function Home() {
             <Support/>
         </div>
     </div>
-    <FirstContactWidget/>
+    <FirstContactWidget />
 
     <div className={`bg-first ${styles.paddingX} ${styles.flexStart}`}>
         <div className={`${styles.boxWidth}`}>
-            <Benefits/>
+            {/*<Benefits/>*/}
         </div>
     </div>
-    <SecondContactWidget/>
 
     <div className={`bg-first ${styles.paddingX} ${styles.flexStart}`}>
         <div className={`${styles.boxWidth}`}>
-            <Middle/>
+            {/*<Middle/>*/}
             <Help/>
+        </div>
+    </div>
+    <SecondContactWidget />
+
+    <div className={`bg-first ${styles.paddingX} ${styles.flexStart}`}>
+        <div className={`${styles.boxWidth}`}>
             <Partner/> 
         </div>
     </div>
-    <ThirdContactWidget/>
+    <ThirdContactWidget />
 
     <div className={`bg-first ${styles.flexStart}`}>
         <div className='w-full'>
-            <Case/> 
+            <Case/>
         </div>
     </div>
 
     <div className={`bg-first ${styles.paddingX} ${styles.paddingY} ${styles.flexStart}`}>
         <div className={`${styles.boxWidth}`}>
+            <Offer/>
             <FAQ/>
         </div>
     </div>
