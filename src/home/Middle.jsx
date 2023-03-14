@@ -14,6 +14,7 @@ const Middle = () => {
         <div className="w-full md:mt-10 mt-6">
           <p className={`${styles.paragraph} sm:ml-[2.5rem] ml-0 text-base`}>{Content.heroSectionInfo2}</p>
         </div>
+        
       </div>
 
       <Discuss styles='mt-10' detail='Learn More'/>
