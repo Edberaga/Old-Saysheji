@@ -3,7 +3,7 @@ import { service } from '../constant'
 import { styles } from '../style'
 import Content from '../constant/homeContent.json'
 
-const ServiceItem = ({ icon, title}) => {
+export const ServiceItem = ({ icon, title}) => {
   return (
     <div className="flex justify-start items-center flex-row
       px-2 sm:py-2 rounded-[20px] md:w-[25%] w-[50%] min-w-[200px] feedback-card">
@@ -25,7 +25,7 @@ const Service = () => {
         </div>
       </div>
 
-      <div className="flex flex-wrap zs:justify-start justify-center feedback-container w-full relative z-[1]">
+      <div className="flex flex-wrap justify-center feedback-container w-full relative z-[1]">
         {service.map((card) => (
           <ServiceItem key={card.id} {...card} />
         ))}
