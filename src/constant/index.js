@@ -44,10 +44,6 @@ export const headerNavLinks = [
     title: "How Do We Support",
   },
   {
-    id: "benefit",
-    title: "Benefits",
-  },
-  {
     id: "help",
     title: "How Can We Help",
   },
@@ -64,71 +60,27 @@ export const headerNavLinks = [
 export const service = [
     {
         id: 'service-1',
-        icon: dapps,
-        title: "dApps Development",
-        content: "We design next-generation dApps to develop Web3 projects using programming languages such as Rust, Solidity, Golang, and frameworks like Substrate and Brownie. Our full-stack Web3 engineers specialize in creating bespoke web3 dApps with high scalability, security, and interoperability."
-    },
-    {
-        id: 'service-2',
         icon: deFi,
         title: "DeFi Development",
         content: "We offer complete DeFi development and consultancy for Web3. We have DeFi professionals on the team who can develop cutting-edge DeFi solutions like DeFi dApps, layer-2 solutions, automated market maker (AMM) non-custodial wallets, cross-chain DeFi exchanges, and DeFi tokens."
     },
     {
-        id: 'service-3',
-        icon: metaverse,
-        title: 'Metaverse Development',
-        content: 'We create cutting-edge metaverse apps and assets that add genuine commercial value. We create components such as 3D immersive environments, NFT markets, Web3 wallets, avatars, and self-sovereign identification using blockchain, AR, VR, and 3D reconstruction.'
-    },
-
-    {
-        id: 'service-4',
+        id: 'service-2',
         icon: nft,
         title: "NFT Development",
         content: "We provide bespoke Web3 NFT marketplaces that allow enterprises to control activities such as NFT trading and live auctions. We also provide ready-to-deploy NFT marketplace solutions that businesses can swiftly incorporate into their Web3 applications, reducing time-to-market."
     },
     {
-        id: 'service-5',
+        id: 'service-3',
         icon: contract,
         title: "Smart Contract Development",
         content: "We design highly secure, upgradeable, and reliable smart contracts by strictly following contemporary web3 standards by leveraging Web3's open-source, public, and composable back ends. Our smart contract automates business procedures at several levels, resulting in absolute transparency."
-    },
-    {
-        id: 'service-6',
-        icon: web3gamedev,
-        title: 'Web3 Game Development',
-        content: 'With deep expertise in using next-gen game development tools Unreal Engine 5 and Unity, our developers build new-age games like the widely popular “play-to-earn” and NFT-based multiplayer games. We further research trends across the gaming industry to meet evolving development needs.'
-    },
-
-    {
-        id: 'service-7',
-        icon: multiChain,
-        title: "Multi Chain Solution",
-        content: "We provide interoperable multi-chain Web3 solutions and dApps that allow users to access isolated Web3 platforms and engage in activities such as trading. Our team also integrates APIs, Oracle, and DAO into your multi-chain system, resulting in more transparency and automation."
-    },
-    {
-        id: 'service-8',
-        icon: native,
-        title: "Native Payment Solutions",
-        content: "We create innovative digital wallets for web3 platforms that provide two major services. It maintains and manages the platform's native currency and serves as a key to access web3 dApps on other blockchains."
     },
 ];
 
 export const support = [
     {
         id: 'support-1',
-        icon: sosMedweb3,
-        title: "Web 3 in Social Media",
-        content: "Our Web3-based social media apps completely transform how social media apps operate by taking control of the data from the platform and giving it back to the end users.",
-        benefits: {
-            list1: "No centralized authority to capture data and use it",
-            list2: "Empowers the users by rewarding them assets ",
-            list3: "Protect the privacy of the users",
-            list4: "Impersonation becomes impossible"
-        }
-    },
-    {
-        id: 'support-2',
         icon: decExchange,
         title: "Decentralized Exchange",
         content: "Web3 offers decentralized exchange a chance to gain popularity by providing a seamless user trade experience without thinking of issues related to hacks or lack of transparency.",
@@ -140,7 +92,7 @@ export const support = [
         }
     },
     {
-        id: 'support-3',
+        id: 'support-2',
         icon: messaging,
         title: "Messaging Platform",
         content: "Offer a superior messaging experience to the users by availing our Web3 solutions crafted for building next-gen messaging apps with in-app perks and blockchain security.",
@@ -153,7 +105,7 @@ export const support = [
     },
 
     {
-        id: 'support-4',
+        id: 'support-3',
         icon: storage,
         title: "Decentralized Storage",
         content: "With decentralized storage, data is encrypted and stored across multiple locations or nodes run by individuals or organizations that share their extra disk space for a fee.",
@@ -165,7 +117,7 @@ export const support = [
         }
     },
     {
-        id: 'support-5',
+        id: 'support-4',
         icon: streaming,
         title: "Decentralized Streaming",
         content: "We help you develop decentralized streaming solutions with blockchain that pay content owners based on the views and shares received, enabling them to get paid per metered viewing.",
@@ -177,7 +129,7 @@ export const support = [
         }
     },
     {
-        id: 'support-6',
+        id: 'support-5',
         icon: insurance,
         title: "Insurance",
         content: "We help you build Web3-based insurance solutions that simplify claims processing and eliminate the occurrence of false claims. It also opens the world to the reality of open banking.",
@@ -370,6 +322,33 @@ export const knowledge = [
     id: '4',
     title: "Videos",
     info: "Tutorials, Walkthroughs, Demos and more.",
+  },
+];
+
+export const career = [
+  {
+      id: 'career-1',
+      icon: dapps,
+      link: '/career/digital-account-executive',
+      title: "Digital Account Executive",
+  },
+  {
+      id: 'career-2',
+      icon: messaging,
+      link: '/career/digital-project-executive',
+      title: "Digital Project Executive",
+  },
+  {
+      id: 'career-3',
+      icon: sosMedweb3,
+      link: '/career/digital-media-planner',
+      title: "Digital Media Planner",
+  },
+  {
+      id: 'career-4',
+      icon: web3gamedev,
+      link: '/career/digital-artist',
+      title: "Digital Designer",
   },
 ];
 
