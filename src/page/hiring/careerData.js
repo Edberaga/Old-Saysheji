@@ -82,3 +82,4 @@ export const careerData = [
         content: "As a Digital Designer, you will be given countless opportunities to showcase your talents, such as designing and developing rich front-end interfaces, websites, and rich media advertising that will wow consumers and help brands to grow.",
     },
 ]
+
