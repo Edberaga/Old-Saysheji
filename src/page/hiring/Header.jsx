@@ -1,6 +1,5 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import joinUsImg from '../../assets/img/join-us.svg'
 
 const Header = () => {
   return (
