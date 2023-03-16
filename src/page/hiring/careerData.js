@@ -10,6 +10,12 @@ import digitalPlanner from '../../assets/icon/career/digital-planner.png'
 import digitalWriter from '../../assets/icon/career/content-writer.png'
 import digitalDesigner from '../../assets/icon/career/digital-designer.png'
 
+import AccExeVid from '../../assets/video/business.mp4';
+import ConWriVid from '../../assets/video/social-media.mp4';
+import DigDesVid from '../../assets/video/design.mp4';
+import VidEdiVid from '../../assets/video/video-editing.mp4';
+import WebDevVid from '../../assets/video/website.mp4';
+
 export const careerData = [
     {
         title: "Video Editor Intern",
@@ -83,3 +89,35 @@ export const careerData = [
     },
 ]
 
+export const InternshipData = [
+    {
+        title: "Digital Content Writer",
+        video: ConWriVid,
+        content: "You will be able to understand the content writing process under the guidance of the team and have the opportunity to regularly write content for social media platforms, banners and websites.",
+        require: "You will be exposed to a wide range of topics and industries, and gain knowledge about the latest advertising trends and dynamics in the digital industry. Proficiency in multiple languages will be a plus."
+    },
+    {
+        title: "Digital Designer",
+        video: DigDesVid,
+        content: "You will become a member of the creative team and participate in the conceptualization of concepts, making plot synopses and layouts, and creating designs for various platforms (for example, online banners, websites, social media postings, etc).",
+        require: "You need to be proficient in Adobe Photoshop, Illustrator, and if you have other relevant knowledge (such as HTML5 or CSS), then this will be a bonus."
+    },
+    {
+        title: "Account Executive",
+        video: AccExeVid,
+        content: "You will work closely with the customer service team to handle project enquiries, assist in researching and formulating customer recommendations, and provide administrative support when necessary.",
+        require: "You will be able to learn how to build relationships with customers and suppliers, as well as develop organizational and project management skills."
+    },
+    {
+        title: "Video Editor",
+        video: VidEdiVid,
+        content: "You will complete basic video editing work (drawing board, shooting, editing, post-production and motion graphics) with a group of like-minded people.",
+        require: "In addition, you will also be exposed to many brands from different industries. If you are passionate about making short videos, dynamic graphics, and engaging social content, it's perfect for the role."
+    },
+    {
+        title: "Web Developer",
+        video: WebDevVid,
+        content: "You will be supporting in the development lifecycle from planning to deployment and maintenance.",
+        require: "Core focus will be assisting on planning, coding, testing, debugging, and documentation. If you posses any relevant experience in PHP, ASP.NET, HTML, CSS, JavaScript, and cross browser implementations, it will be a plus."
+    },
+]
