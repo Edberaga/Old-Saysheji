@@ -35,7 +35,6 @@ const Internship = () => {
                       controls
                     />
                   </div>
-
                   <div>
                     <p>{item.content}</p>
                     <p>{item.require}</p>

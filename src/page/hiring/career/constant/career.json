@@ -1,7 +1,8 @@
-{
+[{
     "about-internship": "If you are interested in learning the essence of digital marketing and gaining valuable agency experience and knowledge, then look no further! We are looking for talented and dedicated people like you to join our team.",
     
     "digital-account-executive": [{
+        "title": "Digital Account Executive",
         "about": "We are seeking high energy, intelligent and entrepreneurial individuals with great people skills to help us support the needs of the advertising community through our digital services. As a Digital Account Executive, you’ll take a hands-on approach in managing day-to-day projects, while fostering partnerships with our clients.",
         "responsibilities": [
             "Daily managing of on-going projects",
@@ -29,6 +30,7 @@
     }],
 
     "digital-project-executive": [{
+        "title": "Digital Project Executive",
         "about": "We’re looking for someone who has experience in digital project management either at an agency or client side. As a vital member of the team, you will be working on a range of clients, liaising with different internal teams, and seeing the projects through from end to end.",
         "responsibilities": [
             "Taking briefs from account servicing team and developing detailed project scopes, including objectives and deliverables",
@@ -50,6 +52,7 @@
     }],
 
     "digital-media-planner": [{
+        "title": "Digital Media Planner",
         "about": "The Digital Media Planner is a crucial position that requires an individual to work well within a team and be prepared for a fast-paced and detail-oriented environment. This individual is expected to show resourcefulness, exhibit accountability, work independently and demonstrate initiative.",
         "statement": "The candidate needs to have excellent communication skills, a broad knowledge of media channels and trends, and analytical skills. Ultimately, this role drives innovation at the campaign level and cultivates key partnerships to deliver the best digital media opportunities to the client.",
         "responsibilities": [
@@ -81,6 +84,7 @@
     }],
 
     "digital-content-writer": [{
+        "title": "Digital Content Writer",
         "about": "We are on the lookout for someone to replace that line with something witty and crafty. Someone who gets to write regularly for social media platforms, banners, websites, and generally enjoy writing in that style the Internet likes. Someone who is particular about spelling and grammar, highly creative, imaginative, and confident in writing about a wide range of topics.",
         "statement": "If you’re bilingual (English & BM, English & Mandarin) or trilingual (English, BM, & Mandarin), we want you!",
         "responsibilities": [
@@ -112,6 +116,7 @@
     }],
 
     "digital-designer": [{
+        "title": "Digital Designer",
         "intro": "We are looking for talented individuals with a variety of design skills to join our team !",
         "about": "As a Digital Designer, you will be developing creative concepts and designs for social media content, digital banners, websites, games, mobile apps, prototyping, wireframing, and animation. If you have awesome skills in Adobe Photoshop, Illustrator, After Effects, and HTML, then you could be the piece of creativity we’re after.",
         "statement": "You will be given countless opportunities to showcase your talents, such as designing and developing rich front-end interfaces, websites, and rich media advertising that will wow consumers and help brands to grow.",
@@ -136,4 +141,4 @@
             "At least 1 year of working experience in the related field. Fresh graduates are welcome to apply as well."
         ]
     }]
-}
+}]
