@@ -10,23 +10,21 @@
             "Preparing sample visuals and value proving background information, as basis for recommending digital solutions",
             "Ability to prioritize and organize work is critical"
         ],
-        "requirements": [{
-            "skills": [
-                "A keen interest in the digital industry",
-                "A desire to stay updated with the latest digital platforms and technology",
-                "Able to work independently and in a team",
-                "Strong believer in creative ideas that work",
-                "Responsible, organized, with attention to detail",
-                "Outstanding communication skills, both oral and written"
-            ],
-            "qualification": [
-                "Candidate must possess at least a Professional Certificate, Diploma, Advanced / Higher / Graduate Diploma, Bachelor’s Degree, Post Graduate Diploma, Professional Degree, Art / Design / Creative Multimedia, Advertising / Media, Business Studies / Administration / Management, Mass Communications, Marketing or equivalent.",
-                "Required skill(s): Presentation Skills, Problem Solving Technique, Microsoft Office",
-                "Required language(s): English, Bahasa Malaysia",
-                "Preferably 1-2 years of working experience in advertising/creative/digital agency environment",
-                "Possesses own transport (optional)"
-            ]
-        }]
+        "skills": [
+            "A keen interest in the digital industry",
+            "A desire to stay updated with the latest digital platforms and technology",
+            "Able to work independently and in a team",
+            "Strong believer in creative ideas that work",
+            "Responsible, organized, with attention to detail",
+            "Outstanding communication skills, both oral and written"
+        ],
+        "qualification": [
+            "Candidate must possess at least a Professional Certificate, Diploma, Advanced / Higher / Graduate Diploma, Bachelor’s Degree, Post Graduate Diploma, Professional Degree, Art / Design / Creative Multimedia, Advertising / Media, Business Studies / Administration / Management, Mass Communications, Marketing or equivalent.",
+            "Required skill(s): Presentation Skills, Problem Solving Technique, Microsoft Office",
+            "Required language(s): English, Bahasa Malaysia",
+            "Preferably 1-2 years of working experience in advertising/creative/digital agency environment",
+            "Possesses own transport (optional)"
+        ]
     }],
 
     "digital-project-executive": [{
@@ -39,15 +37,20 @@
             "Anticipating potential issues and proactively seek for solutions internally and with client",
             "Communicating with all teams to keep them up-to-date on project status and timeline"
         ],
-        "requirements": [
-            "Candidate must possess at least a Diploma accreditation in Digital Marketing/Advertising, Business Management or relevant field",
-            "At least 1 year experience in digital project management – working on campaigns from initial briefing to delivery",
+        "skills": [
             "Possess digital knowledge or work experience in a digital agency will be a plus point",
             "Solid organizational skills including attention to detail and the ability to multi-task",
             "Excellent time management skills",
             "Strong communication skills, both written and verbal",
             "Ability to work independently and under pressure to meet deadlines",
             "Able to own individual projects as well as the ability to work within a team"
+        ],
+        "qualification": [
+            "Candidate must possess at least a Diploma accreditation in Digital Marketing/Advertising, Business Management or relevant field",
+            "At least 1 year experience in digital project management – working on campaigns from initial briefing to delivery",
+            "Required language(s): English, Bahasa Malaysia",
+            "Preferably 1-2 years of working experience in advertising/creative/digital agency environment",
+            "Possesses own transport (optional)"
         ]
     }],
 
