@@ -87,6 +87,34 @@ export const careerData = [
         category: "Fulltime",
         content: "As a Digital Designer, you will be given countless opportunities to showcase your talents, such as designing and developing rich front-end interfaces, websites, and rich media advertising that will wow consumers and help brands to grow.",
     },
+    {
+        title: "Video Grapher",
+        img: digitalDesigner,
+        link: '/career/video-grapher',
+        category: "Fulltime",
+        content: "Say Sheji Group Sdn. Bhd. is a dynamic and rapidly growing company that offers a wide range of creative and innovative solutions to our clients. Our company is committed to providing exceptional customer service and we are dedicated to the professional growth and development of our employees. We are seeking a talented Video Editor to join our ThaiGood4U YouTube Channel team in Thailand.",
+    },
+    {
+        title: "Brand Ambassador",
+        img: digitalProject,
+        link: '/career/brand-ambassador',
+        category: "Fulltime",
+        content: "Say Sheji Group Sdn. Bhd. is a dynamic and rapidly growing company that offers a wide range of creative and innovative solutions to our clients. Our company is committed to providing exceptional customer service and we are dedicated to the professional growth and development of our employees. We are seeking a talented Brand Ambassador to represent our ThaiGood4U YouTube Channel.",
+    },
+    {
+        title: "Junior Graphic Designer",
+        img: digitalPlanner,
+        link: '/career/junior-graphic-designer',
+        category: "Fulltime",
+        content: "Say Sheji Group Sdn. Bhd. is a dynamic and rapidly growing company that offers a wide range of creative and innovative solutions to our clients. Our company is committed to providing exceptional customer service and we are dedicated to the professional growth and development of our employees. We are seeking a talented Junior Graphic Designer to join our ThaiGood4U YouTube Channel team in Thailand.",
+    },
+    {
+        title: "Video Editor",
+        img: digitalWriter,
+        link: '/career/video-editor',
+        category: "Fulltime",
+        content: "Say Sheji Group Sdn. Bhd. is a dynamic and rapidly growing company that offers a wide range of creative and innovative solutions to our clients. Our company is committed to providing exceptional customer service and we are dedicated to the professional growth and development of our employees. We are seeking a talented Video Editor to join our ThaiGood4U YouTube Channel team in Thailand.",
+    },
 ]
 
 export const InternshipData = [
