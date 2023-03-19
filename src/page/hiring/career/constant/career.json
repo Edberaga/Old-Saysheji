@@ -69,9 +69,7 @@
             "Monitor and optimize the effectiveness of campaigns.",
             "Provide regular updates and post-campaign reporting with recommendations for optimization and forward planning as required."
         ],
-        "requirements": [
-            "At least 3-4 years of agency or brand work experience in media planning and/or digital marketing.",
-            "Possess at least Professional Certificate or above in Business Studies, Marketing, Advertising/Media or equivalent.",
+        "skills": [
             "Display a strong interest to push and develop new digital initiatives.",
             "Up-to-date knowledge on search, display, and social guidelines to provide recommendations for ad types, bidding models & targeting based on client briefs.",
             "Experience with Search Engine Marketing (SEM), Display and Social Media Ads especially in performance-based marketing/advertising. Familiarity with Facebook Ads, Google AdWords, Google Marketing Platform Suite, and several programmatic platforms strongly preferred.",
@@ -83,6 +81,13 @@
             "Problem solver with the ability to develop creative solutions.",
             "Organized and detail-oriented with strong attention to follow-through.",
             "Nimble and flexible to succeed in a fast-paced environment and handle ad-hoc requests."
+        ],
+        "qualification": [
+            "At least 3-4 years of agency or brand work experience in media planning and/or digital marketing.",
+            "Possess at least Professional Certificate or above in Business Studies, Marketing, Advertising/Media or equivalent.",
+            "Required language(s): English, Bahasa Malaysia",
+            "Preferably 1-2 years of working experience in advertising/creative/digital agency environment",
+            "Possesses own transport (optional)"
         ]
     }],
 
@@ -99,30 +104,26 @@
             "Editing or rewriting existing copy of works as necessary for ongoing digital projects",
             "Always keep up-to-date with new advertising trends and techniques as well as what’s going on in the digital industry"
         ],
-        "recquirements": [{
-            "skills": [
-                "Conceptualizing and designing interfaces for various platforms with an emphasis on user experience",
-                "Conducting research, mood/storyboarding, prototyping ideas",
-                "Producing layouts, digital assets, graphics for animations",
-                "Designing a wide variety of interactive experiences",
-                "Being an integral part of the big picture",
-                "Presenting innovative ideas supported by top-notch research and industry knowledge",
-                "And most importantly, having fun in the process!"
-            ],
-            "qualification": [
-                "Candidate must possess impeccable command of either English and Bahasa Malaysia, English and Mandarin, or English, Bahasa Malaysia, and Mandarin",
-                "Candidate must possess at least a Professional Certificate, Diploma, or Bachelor’s degree in Mass Communications, Public Relations, Journalism, English, or relevant degree or certification",
-                "At least 1 year(s) of working experience in the related field is required for this position",
-                "Preferably Junior Executives specializing in copywriting, communications, or equivale"
-            ]
-        }]
+        "skills": [
+            "Conceptualizing and designing interfaces for various platforms with an emphasis on user experience",
+            "Conducting research, mood/storyboarding, prototyping ideas",
+            "Producing layouts, digital assets, graphics for animations",
+            "Designing a wide variety of interactive experiences",
+            "Being an integral part of the big picture",
+            "Presenting innovative ideas supported by top-notch research and industry knowledge",
+            "And most importantly, having fun in the process!"
+        ],
+        "qualification": [
+            "Candidate must possess impeccable command of either English and Bahasa Malaysia, English and Mandarin, or English, Bahasa Malaysia, and Mandarin",
+            "Candidate must possess at least a Professional Certificate, Diploma, or Bachelor’s degree in Mass Communications, Public Relations, Journalism, English, or relevant degree or certification",
+            "At least 1 year(s) of working experience in the related field is required for this position",
+            "Preferably Junior Executives specializing in copywriting, communications, or equivale"
+        ]
     }],
 
     "digital-designer": [{
         "title": "Digital Designer",
-        "intro": "We are looking for talented individuals with a variety of design skills to join our team !",
-        "about": "As a Digital Designer, you will be developing creative concepts and designs for social media content, digital banners, websites, games, mobile apps, prototyping, wireframing, and animation. If you have awesome skills in Adobe Photoshop, Illustrator, After Effects, and HTML, then you could be the piece of creativity we’re after.",
-        "statement": "You will be given countless opportunities to showcase your talents, such as designing and developing rich front-end interfaces, websites, and rich media advertising that will wow consumers and help brands to grow.",
+        "about": "As a Digital Designer, you will be developing creative concepts and designs for social media content, digital banners, websites, games, mobile apps, prototyping, wireframing, and animation. If you have awesome skills in Adobe Photoshop, Illustrator, After Effects, and HTML, then you could be the piece of creativity we’re after. You will be given countless opportunities to showcase your talents, such as designing and developing rich front-end interfaces, websites, and rich media advertising that will wow consumers and help brands to grow.",
         "responsibilities": [
             "Conceptualizing and designing interfaces for various platforms with an emphasis on user experience",
             "Conducting research, mood/storyboarding, prototyping ideas",
@@ -132,16 +133,136 @@
             "Presenting innovative ideas supported by top-notch research and industry knowledge",
             "And most importantly, having fun in the process!"
         ],
-        "recquirements": [
-            "A minimum of a diploma accreditation with knowledge in Graphic Design and Web Design",
+        "skills": [
             "Required skill(s): Adobe Illustrator, Photoshop, After Effects, or Google Web Designer",
             "Knowledge of additional skills such as HTML5, motion graphic or animation will be a plus",
             "Strong analytical and problem-solving skills",
             "Passionate and dedicated in your work",
             "Excited and curious about learning new technology as well as the sharing of ideas",
             "Exceptional collaboration, listening, written, and verbal communication",
-            "Able to work independently as well as in a team",
-            "At least 1 year of working experience in the related field. Fresh graduates are welcome to apply as well."
+            "Able to work independently as well as in a team"
+        ],
+        "qualification": [
+            "A minimum of a diploma accreditation with knowledge in Graphic Design and Web Design",
+            "At least 1 year of working experience in the related field. Fresh graduates are welcome to apply as well.",
+            "Required language(s): English, Bahasa Malaysia",
+            "Possesses own transport (optional)"
+        ]
+    }],
+    "videographer": [{
+        "title": "Video Grapher",
+        "about": "We are a leading video production house with a talented team of professionals who create high-quality visual content for a variety of clients. Our work spans across various genres including corporate, music, events, and promotional videos. We are seeking a skilled Videographer to join our team to create visually stunning content for our clients.",
+        "description": "The Videographer will be responsible for planning, shooting, and editing video content for our clients. The successful candidate must have excellent skills in videography, lighting, sound recording, and editing, and be able to work independently or as part of a team. The Videographer will be responsible for producing high-quality video content that meets our clients' expectations.",
+        "responsibilities": [
+            "Plan and execute video shoots",
+            "Operate cameras, lighting, and sound equipment to produce high-quality videos",
+            "Edit video footage to create a final product that meets our clients' needs",
+            "Collaborate with clients to understand their requirements and deliver the desired outcome",
+            "Stay up-to-date with industry trends and technology to ensure we provide the latest video production techniques",
+            "Manage equipment and ensure it is well-maintained and used properly",
+            "Ensure video projects are completed on time and within budget",
+            "Manage video production timelines and ensure that deadlines are met",
+            "Work collaboratively with team members to create cohesive and professional content",
+            "Other duties as assigned"
+        ],
+        "skills": [
+            "Solid understanding of videography techniques, lighting, and sound recording",
+            "Strong editing skills using Adobe Premiere, Final Cut Pro or similar software",
+            "Experience with camera equipment, lighting and sound equipment, and editing software",
+            "Knowledge of video production workflows and processes",
+            "Strong communication and interpersonal skills",
+            "Ability to work independently or as part of a team",
+            "Ability to manage multiple projects simultaneously",
+            "High attention to detail and ability to deliver projects on time and within budget"
+        ],
+        "qualification": [
+            "A degree in Film, Video Production, or a related field is preferred but not required. Relevant experience will also be considered.",
+            "Proven experience as a Videographer or similar role for at least 1 year",
+            "Required language(s): English, Bahasa Malaysia",
+            "Possesses own transport (optional)"
+        ],
+        "conclusion": "If you are a passionate and skilled Videographer looking for an exciting opportunity to join a dynamic team, please submit your resume and a link to your portfolio. We offer a competitive salary, health benefits, and opportunities for growth within the company. We look forward to hearing from you!"
+    }],
+    "brand-ambassador": [{
+        "title": "Brand Ambassador",
+        "about": "Say Sheji Group Sdn. Bhd. is a dynamic and rapidly growing company that offers a wide range of creative and innovative solutions to our clients. Our company is committed to providing exceptional customer service and we are dedicated to the professional growth and development of our employees. We are seeking a talented Brand Ambassador to represent our ThaiGood4U YouTube Channel.",
+        "description": "We are seeking a Brand Ambassador to represent our ThaiGood4U YouTube Channel. The successful candidate will be responsible for creating engaging and informative content, building relationships with our audience, and promoting the ThaiGood4U brand. The ideal candidate should have a passion for Thai cuisine, a strong presence on social media platforms, and the ability to work collaboratively with a team.",
+        "responsibilities": [
+            "Create high-quality content for ThaiGood4U's YouTube channel, including recipe videos, cooking tips, and lifestyle content.",
+            "Collaborate with the marketing team to develop and execute content strategies that align with our brand standards and objectives.",
+            "Promote ThaiGood4U's YouTube channel on social media platforms, including Instagram, Facebook, and Twitter.",
+            "Build relationships with our audience and engage with them through comments, messages, and other interactions.",
+            "Attend events and engage with our audience in person to promote ThaiGood4U.",
+            "Work collaboratively with the marketing team to analyze and report on brand performance and identify opportunities for improvement.",
+            "Stay up-to-date on the latest trends and best practices in YouTube content creation and social media marketing."
+        ],
+        "skills": [
+            "Passion for Thai cuisine and a strong interest in food content creation.",
+            "Strong communication and interpersonal skills, with the ability to engage with our audience and build relationships.",
+            "Experience in content creation for YouTube and social media platforms.",
+            "Knowledge of YouTube algorithms and best practices for growing and engaging with an audience.",
+            "Ability to work collaboratively with a team and take direction from the marketing manager.",
+            "Strong organizational skills and the ability to manage multiple projects and deadlines."
+        ],
+        "qualification": [
+            "Experience working with external partners, such as brands and influencers, is a plus.",
+            "Required language(s): English, Bahasa Malaysia",
+            "Possesses own transport (optional)"
+        ]
+    }],
+    "junior-graphic-designer": [{
+        "title": "Junior Graphic Designer",
+        "about": "Say Sheji Group Sdn. Bhd. is a dynamic and rapidly growing company that offers a wide range of creative and innovative solutions to our clients. Our company is committed to providing exceptional customer service and we are dedicated to the professional growth and development of our employees. We are seeking a talented Junior Graphic Designer to join our ThaiGood4U YouTube Channel team in Thailand.",
+        "description": "We are seeking a Junior Graphic Designer to work on our ThaiGood4U YouTube Channel team in Thailand. The successful candidate will be responsible for creating engaging and informative visual content, including video graphics, thumbnails, and social media graphics. The ideal candidate should have experience in graphic design, a passion for food content creation, and the ability to work collaboratively with a team.",
+        "responsibilities": [
+            "Collaborate with the content team to conceptualize and create graphics for ThaiGood4U's YouTube channel, including video graphics, thumbnails, and social media graphics.",
+            "Ensure that all visual content aligns with the brand standards and objectives.",
+            "Manage and maintain all visual assets, including graphic files and stock photography.",
+            "Stay up-to-date on the latest graphic design trends and best practices.", 
+            "Work collaboratively with the video editor to ensure that all graphics are optimized for video content.",
+            "Adhere to project timelines and budgets.",
+            "Collaborate with external partners and vendors as necessary."
+        ],
+        "skills": [
+            "Proficiency in graphic design software such as Adobe Creative Suite or Sketch.",
+            "Knowledge of video graphics and the ability to create graphics that are optimized for video content.",
+            "Experience with social media graphics and the ability to create engaging content for various social media platforms.",
+            "Ability to work collaboratively with a team and take direction from the content manager.",
+            "Strong organizational skills and the ability to manage multiple projects and deadlines.",
+            "Knowledge of relevant regulations and laws related to graphic design."
+        ],
+        "qualification": [
+            "Bachelor's degree in graphic design or a related field." ,
+            "At least 1-2 years of experience in graphic design, with a strong portfolio of work.",
+            "Required language(s): English, Bahasa Malaysia",
+            "Possesses own transport (optional)"
+        ]
+    }],
+    "video-editor": [{
+        "title": "Video Editor",
+        "about": "Say Sheji Group Sdn. Bhd. is a dynamic and rapidly growing company that offers a wide range of creative and innovative solutions to our clients. Our company is committed to providing exceptional customer service and we are dedicated to the professional growth and development of our employees. We are seeking a talented Video Editor to join our ThaiGood4U YouTube Channel team in Thailand.",
+        "description": "We are seeking a Video Editor to work on our ThaiGood4U YouTube Channel team in Thailand. The successful candidate will be responsible for editing and producing high-quality video content, ensuring that it aligns with the brand standards and objectives. The ideal candidate should have experience in video editing, a passion for food content creation, and the ability to work collaboratively with a team.",
+        "responsibilities": [
+            "Collaborate with the content team to edit and produce high-quality video content for ThaiGood4U's YouTube channel.",
+            "Ensure that all video content aligns with the brand standards and objectives.",
+            "Work collaboratively with the graphic designer to ensure that all graphics are optimized for video content.",
+            "Manage and maintain all video assets, including footage, sound bites, and b-roll.",
+            "Stay up-to-date on the latest video editing trends and best practices.",
+            "Adhere to project timelines and budgets.",
+            "Collaborate with external partners and vendors as necessary"
+        ],
+        "skills": [
+            "Proficiency in video editing software such as Adobe Premiere, Final Cut Pro, or DaVinci Resolve.",
+            "Knowledge of video graphics and the ability to work collaboratively with a graphic designer to ensure that all graphics are optimized for video content.",
+            "Ability to work collaboratively with a team and take direction from the content manager.",
+            "Strong organizational skills and the ability to manage multiple projects and deadlines.",
+            "Knowledge of relevant regulations and laws related to video editing"
+        ],
+        "qualification": [
+            "Bachelor's degree in film production, video editing, or a related field.",
+            "At least 1-2 years of experience in video editing, with a strong portfolio of work.",
+            "Required language(s): English, Bahasa Malaysia",
+            "Possesses own transport (optional)"
         ]
     }]
 }]
