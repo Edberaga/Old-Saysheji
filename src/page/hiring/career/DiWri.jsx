@@ -1,8 +1,11 @@
 import React from 'react'
+import Career from '.'
 
 const DiWri = () => {
   return (
-    <div>Digital Content Writer</div>
+    <section>
+      <Career job="digital-content-writer" />
+    </section>
   )
 }
 
