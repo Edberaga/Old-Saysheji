@@ -1,8 +1,11 @@
 import React from 'react'
+import Career from '.'
 
 const DiArt = () => {
   return (
-    <div>Digital Artist</div>
+    <section>
+      <Career job="digital-designer" />
+    </section>
   )
 }
 
