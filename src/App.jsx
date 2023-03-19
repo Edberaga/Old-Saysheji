@@ -11,6 +11,10 @@ import DiArt from './page/hiring/career/DiArt';
 import DiMed from './page/hiring/career/DiMed';
 import DiPro from './page/hiring/career/DiPro';
 import DiWri from './page/hiring/career/DiWri';
+import BrandAmbassador from './page/hiring/career/thai-career/BrandAmbassador';
+import JuniorGrapDes from './page/hiring/career/thai-career/JuniorGrapDes';
+import VideoEditor from './page/hiring/career/thai-career/VideoEditor';
+import VideoGrapher from './page/hiring/career/thai-career/VideoGrapher';
 
 function App() {
   return (
@@ -27,6 +31,12 @@ function App() {
           <Route path='digital-media-planner' element={<DiMed/>} />
           <Route path='digital-content-writer' element={<DiWri/>} />
           <Route path='digital-designer' element={<DiArt/>} />
+
+          {/*ThatGood4U Career */}
+          <Route path='brand-ambassador' element={<BrandAmbassador/>}/>
+          <Route path='junior-graphic-designer' element={<JuniorGrapDes/>}/>
+          <Route path='video-editor' element={<VideoEditor/>}/>
+          <Route path='video-grapher' element={<VideoGrapher/>}/>
         </Route>
 
       </Routes>
