@@ -1,0 +1,38 @@
+.career-container {
+    border: 1px solid rgb(209, 209, 209);
+    border-radius: 7.5px;
+    margin: 5em auto;
+}
+
+.internship-section{
+    border: 1px solid rgb(209, 209, 209);
+    border-radius: 7.5px;
+    margin: 5em auto;
+    padding: 1em 1.5em 2em 1.5em;
+}
+
+.internship-video{
+    width: 70rem;
+}
+
+.career-list {
+    list-style: none; /* Remove default bullets */
+}
+
+.career-list li::before {
+    content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+    color: #38B6FF; /* Change the color */
+    font-size: 22px;
+    font-weight: bold; /* If you want it to be bold */
+    margin-right: 1em;
+}
+
+@media screen and (max-width: 768px) {
+    .internship-section {
+        margin: 2.5em 15px;
+    }
+
+    .internship-section h1{
+        text-align: center;
+    }
+}
