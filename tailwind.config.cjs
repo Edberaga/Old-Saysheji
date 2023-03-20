@@ -11,9 +11,13 @@ module.exports = {
         dimBlue: "rgba(9, 151, 124, 0.1)",
         lightdark: "#262626",
         lightdarker: "#2d3034",
+        bluePrimary: "#38B6FF",
       },
       fontFamily: {
         poppins: ["Poppins", "sans-serif"],
+      },
+      backgroundImage: {
+        'DiAcc': "url('./assets/img/career/account-executive-bg.jpg')"
       },
     },
     screens: {
