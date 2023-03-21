@@ -6,10 +6,7 @@ const DiPro = () => {
   return (
     <>
     <section>
-      <Career 
-        job="digital-project-executive" 
-        bg={Img} 
-      />
+      <Career job="digital-project-executive" bg={Img} />
     </section>
     </>
   )
