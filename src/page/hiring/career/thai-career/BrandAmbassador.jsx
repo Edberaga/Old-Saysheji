@@ -5,10 +5,7 @@ import Img from '../../../../assets/img/career/brand-ambassador-bg.jpg'
 const BrandAmbassador = () => {
   return (
     <section>
-        <Career 
-          job='brand-ambassador'
-          bg={Img}
-        />
+        <Career job='brand-ambassador'bg={Img} />
     </section>
   )
 }
