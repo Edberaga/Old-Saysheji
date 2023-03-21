@@ -6,10 +6,7 @@ const DiAcc = () => {
   return (
   <>
     <section>
-      <Career 
-        job="digital-account-executive" 
-        bg={Img} //Must no space... and '' quotation inside :/
-      />
+      <Career job="digital-account-executive"  bg={Img} />
     </section>
   </>
 )}
