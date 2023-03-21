@@ -5,10 +5,7 @@ import Img from '../../../assets/img/career/media-planner-bg.jpg'
 const DiMed = () => {
   return (
     <section>
-      <Career 
-        job="digital-media-planner"
-        bg={Img} 
-      />
+      <Career job="digital-media-planner"bg={Img} />
     </section>
   )
 }
