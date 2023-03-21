@@ -5,10 +5,7 @@ import Img from '../../../../assets/img/career/video-editor-bg.jpg'
 const VideoEditor = () => {
   return (
     <section>
-        <Career 
-          job='video-editor'
-          bg={Img}
-        />
+        <Career job='video-editor'bg={Img} />
     </section>
   )
 }
